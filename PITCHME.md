@@ -27,7 +27,7 @@
 
 - Снятие на карту VISA любого банка
 
-+++?image=assets/images/visa.png&size=auto 100%
++++?image=assets/images/visa.png&size=auto 80%
 
 ---
 
@@ -37,7 +37,9 @@
 - Диф. тариф
 - Разработан прототип терминалов
 
-+++?image=assets/images/mobile_terminal.png&size=auto 100%
++++?image=assets/images/mobile_terminal.png&size=auto 80%
+
+---
 
 ## Инфраструктура
 
