@@ -82,7 +82,7 @@ Note:
 - Вывод средств в Кыргызстане
 - Прямая связь с Казпочтой
 
-+++?image=assets/images/support.png&size=auto 80%
++++?image=assets/images/support.png&size=auto 50%
 
 ---
 
