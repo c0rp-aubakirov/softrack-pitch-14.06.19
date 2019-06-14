@@ -76,6 +76,15 @@ Note:
 
 ---
 
+## Поддержка
+
+- 123
+- 234
+
++++?image=assets/images/support.png&size=auto 80%
+
+---
+
 
 ## Планы и сроки
 
